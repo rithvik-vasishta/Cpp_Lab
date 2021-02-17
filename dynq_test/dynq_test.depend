@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1542907893 source:g:\c++\dynq_test\main.c
+	<stdio.h>
+	<stdlib.h>
+
